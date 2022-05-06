@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://nonitut.github.io/sitemap.xml
